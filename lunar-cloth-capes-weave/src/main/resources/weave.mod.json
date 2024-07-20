@@ -1,5 +1,0 @@
-{
-  "name": "Lunar Cloth Capes",
-  "modId": "lunar-cloth-capes",
-  "hooks": ["com.grappenmaker.cloth.LunarClothCapes"]
-}
